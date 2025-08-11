@@ -1,6 +1,6 @@
 # Link: https://dsaw-2025-ii.github.io/my-cv-part-c-ItsN3M3515/
 # Tarea flexbox froggy
-![tarea flexbox froggy](image-2.png)
+![tarea flexbox froggy](image-4.png)
 # Tarea grid garden
 ![tarea grid garden](image-3.png)
 
