@@ -1,8 +1,8 @@
 # Link: https://dsaw-2025-ii.github.io/my-cv-part-c-ItsN3M3515/
 # Tarea flexbox froggy
-![alt text](tarea_flexbox_froggy.png)
+(![tarea flexbox froggy](image-2.png))
 # Tarea grid garden
-![alt text](tarea_grid_garden.png)
+![tarea grid garden](image-3.png)
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/FoyjQ7s2)
 # Bienvenidos a la Tarea de HTML y CSS
