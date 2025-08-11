@@ -1,0 +1,76 @@
+body {
+    font-family: "Anonymous Pro", monospace;
+    color: #ffffff; 
+    margin: 0;
+    padding: 0;
+    background-color: #000000; 
+}
+
+.name-header { /* Header para marcar el nombre */
+    text-align: center;
+    margin-top: 30px;
+}
+
+.grid-container { /* El grid container tiene todos los divs principales */
+    display: grid; /* flexbox es para boomers */
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+    margin: 30px;
+    padding: 20px;
+}
+
+/* Todo de aca pa abajo es copia y pega de lo mismo */
+.contact-info {
+    text-align: left;
+    padding: 20px;
+    border: 1px solid #ffffff;
+    border-radius: 8px;
+}
+.education-level {
+    padding: 20px;
+    border: 1px solid #ffffff;
+    border-radius: 8px;
+}
+.work-experience {
+    padding: 20px;
+    border: 1px solid #ffffff;
+    border-radius: 8px;
+}
+.skills {
+    padding: 20px;
+    border: 1px solid #ffffff;
+    border-radius: 8px;
+}
+.hobbies {
+    padding: 20px;
+    border: 1px solid #ffffff;
+    border-radius: 8px;
+}
+
+/* Aca si ya no porque es la tabla de mi educacion */
+.education-level table {
+    width: 100%;
+    margin-top: 10px;
+}
+
+.education-level th { /* Header de la tabla de educacion */
+    border: 1px solid #ffffff;
+    padding: 8px;
+    text-align: left;
+    font-weight: bold;
+}
+.education-level td { /* Contenido de la tabla de educacion */
+    border: 1px solid #ffffff;
+    padding: 8px;
+    text-align: left;
+}
+
+/* El posicion fixed es para que el footer siempre este abajo */
+.footer {
+    padding: 20px;
+    color: #ffffff;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
